@@ -54,3 +54,6 @@ https://www.upwork.com/freelancers/~0150fe8d8539ae61d9
 ---
 
 ⭐ Always building, always learning.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,supabase,git,github,vercel,vscode,npm" />
+</p>
