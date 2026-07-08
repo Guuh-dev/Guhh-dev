@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&center=true&vCenter=true&width=800&lines=AI+Developer;SaaS+Builder;Landing+Page+Developer;Automation+Expert"/>
 <h1 align="center">Hi, I'm Gustavo Araújo 👋</h1>
 
 <p align="center">
