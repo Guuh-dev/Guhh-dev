@@ -48,7 +48,7 @@ https://www.upwork.com/freelancers/~0150fe8d8539ae61d9
 
 📧 Contact
 
-(Seu email profissional quando criar)
+(gustavobebe720@gmail.com)
 
 ---
 
