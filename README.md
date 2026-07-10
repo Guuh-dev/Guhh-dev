@@ -1,62 +1,74 @@
 <!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║                                                              ║
-  ║             GUSTAVO ARAÚJO • GITHUB PROFILE                 ║
-  ║                AI-NATIVE PRODUCT BUILDER                    ║
-  ║                                                              ║
-  ╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║                 GUSTAVO ARAÚJO • GUUH-DEV                       ║
+║            AI-NATIVE PRODUCT BUILDER • BRAZIL                   ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,28:11111A,68:5B21B6,100:9D4EDD&text=Gustavo%20Araújo&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=AI-Native%20Product%20Builder%20%E2%80%A2%20Mobile%20%26%20Web&descAlignY=57&descSize=18&animation=fadeIn"/>
+<img width="100%" src="./assets/banner.svg" alt="Gustavo Araújo - AI-Native Product Builder"/>
+
+<br/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=850&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=920&height=60&lines=Turning+ideas+into+real+digital+products.;Building+AI-powered+mobile+and+web+experiences.;Designing+the+vision.+Directing+the+AI.+Shipping+the+result.;Built+from+a+phone-first+setup.+No+excuses.;The+code+never+stops."
-    alt="Animated typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=C084FC&center=true&vCenter=true&repeat=true&width=950&height=65&lines=Turning+ideas+into+working+digital+products.;Building+AI-powered+mobile+and+web+experiences.;Designing+the+vision.+Directing+the+AI.+Shipping+the+result.;Built+from+a+phone-first+setup.+No+excuses.;The+code+never+stops."
+    alt="Animated introduction"
   />
 </a>
 
 <br/>
 
 <a href="mailto:gustavobebe720@gmail.com">
-  <img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE-22C55E?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-A855F7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=09090B"/>
+</a>
+<a href="https://www.linkedin.com/in/gustavo-araujo-542019316/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=09090B"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~0150fe8d8539ae61d9">
+  <img src="https://img.shields.io/badge/UPWORK-HIRE%20ME-14A800?style=for-the-badge&logo=upwork&logoColor=white&labelColor=09090B"/>
 </a>
 <a href="https://github.com/Guuh-dev?tab=followers">
-  <img src="https://img.shields.io/github/followers/Guuh-dev?label=FOLLOWERS&style=for-the-badge&color=8B5CF6&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/github/followers/Guuh-dev?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=09090B"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Guuh-dev&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" />
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=Guuh-dev&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-22C55E?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20PRODUCTS-A855F7?style=flat-square&labelColor=09090B"/>
+<img src="https://img.shields.io/badge/AVAILABLE-FOR%20FREELANCE-14A800?style=flat-square&labelColor=09090B"/>
 
-<div align="center">
+<br/><br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM STATUS: ONLINE                     │
-│                                                              │
-│  Product vision      ████████████████████  100%              │
-│  AI orchestration    ███████████████████░   95%              │
-│  Building speed      ███████████████████░   95%              │
-│  Giving up           ░░░░░░░░░░░░░░░░░░░░    0%              │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────────┐
+│                          NEXUS SYSTEM TELEMETRY                            │
+├────────────────────────────────────────────────────────────────────────────┤
+│ Product vision       ████████████████████  100%                            │
+│ AI orchestration     ███████████████████░   95%                            │
+│ Product execution    ███████████████████░   95%                            │
+│ Design obsession     ████████████████████  100%                            │
+│ Excuse generation    ░░░░░░░░░░░░░░░░░░░░    0%                            │
+└────────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `> whoami`
+## `> INITIALIZING PROFILE...`
 
 ```yaml
-name: Gustavo Araújo
-username: Guuh-dev
-location: Brazil
+identity:
+  name: Gustavo Araújo
+  username: Guuh-dev
+  location: Brazil
 
-role:
+roles:
   - AI-Native Product Builder
   - Mobile & Web Developer
   - Product-Oriented Creator
@@ -64,40 +76,57 @@ role:
 building:
   - Mobile applications
   - AI-powered systems
-  - SaaS products
+  - SaaS products and MVPs
   - Landing pages
   - Automation workflows
 
 current_mission:
-  - Ship Nexus AI as a real Android product
-  - Build a powerful product portfolio
+  - Ship useful products
+  - Build a powerful portfolio
   - Work with real freelance clients
-  - Turn technical execution into sustainable income
+  - Transform technical execution into sustainable income
   - Scale from a phone-first setup into a complete workstation
 
-status: "Building, testing, deploying and improving."
+system_status: ONLINE
 ```
 
-I transform ideas into **working digital products** by combining software development, product thinking, interface design and artificial intelligence.
+I transform ideas into **working digital products** by combining development, product thinking, interface design and artificial intelligence.
 
-My strongest skill is orchestration. I define the vision, structure requirements, direct AI agents, connect services, inspect generated code, debug failures, test real flows and keep iterating until the project becomes something people can actually use.
+My strongest skill is orchestration. I define the product vision, structure requirements, direct AI tools, connect services, inspect generated code, debug failures, test complete flows and keep iterating until the idea becomes something people can actually use.
 
 > **I do not use AI to avoid building.**  
-> **I use AI to build faster, explore further and ship more ambitious products.**
+> **I use AI to build faster, experiment further and ship more ambitious products.**
 
 ---
 
-## 🚀 Flagship Project
+# 🚀 Flagship System
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:07070A,55:3B0764,100:7C3AED&text=NEXUS%20AI&fontColor=FFFFFF&fontSize=38&fontAlignY=40&desc=PERSONAL%20MISSION%20OS&descAlignY=70&descSize=15"/>
+<h2>NEXUS AI</h2>
 
-### A personal execution system that turns long-term goals into realistic daily missions.
+### `PERSONAL MISSION OS`
 
-[![View Repository](https://img.shields.io/badge/VIEW%20SOURCE-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guuh-dev/Nexus-AI-v1)
-[![Android](https://img.shields.io/badge/ANDROID-READY-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Guuh-dev/Nexus-AI-v1)
-[![Expo](https://img.shields.io/badge/EXPO%20SDK-57-000020?style=for-the-badge&logo=expo&logoColor=white)](https://github.com/Guuh-dev/Nexus-AI-v1)
+**A personal execution system that transforms long-term goals, routines and priorities into realistic daily missions.**
+
+<br/>
+
+<a href="https://github.com/Guuh-dev/Nexus-AI-v1">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/ANDROID-READY-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPO%20SDK-57-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-POWERED-A855F7?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://github.com/Guuh-dev/Nexus-AI-v1">
+  <img
+    width="470"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Guuh-dev&repo=Nexus-AI-v1&hide_border=true&bg_color=07070A&title_color=C084FC&icon_color=A855F7&text_color=D4D4D8"
+    alt="Nexus AI repository"
+  />
+</a>
 
 </div>
 
@@ -107,28 +136,32 @@ My strongest skill is orchestration. I define the vision, structure requirements
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Intelligent Planning
+### 🧠 Intelligence Engine
 
-- Adaptive four-step onboarding
-- Personalized daily mission generation
+- Adaptive four-stage onboarding
+- Personalized daily plan generation
 - Goal, routine and priority analysis
-- Structured AI responses
-- Automatic JSON validation
-- Repair attempt for malformed responses
-- Safe local planning fallback
+- OpenRouter server integration
+- DeepSeek model support
+- Structured JSON responses
+- Zod schema validation
+- Automatic repair attempts
+- Safe offline planning fallback
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Personal Progression
+### 🎮 Progression Engine
 
-- Daily tasks and main missions
+- Main daily missions
+- Executable task breakdowns
 - XP and progressive levels
-- Achievements and streaks
-- Weekly progress telemetry
+- Streak calculation
+- Achievements
+- Weekly telemetry
 - Category distribution
-- Focus session history
-- Real execution tracking
+- Focus session tracking
+- Historical execution data
 
 </td>
 </tr>
@@ -136,130 +169,99 @@ My strongest skill is orchestration. I define the vision, structure requirements
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Mobile Experience
+### 📱 Experience Engine
 
-- React Native and Expo Router
+- React Native application
+- Expo Router architecture
 - Android and responsive web
 - AMOLED-first interface
-- Pixel-art AI mascot
+- Original pixel-art mascot
 - Native notifications
-- Android home-screen widget
-- Deep links and quick access
+- Android widget architecture
+- Deep links
+- Mobile-first interaction design
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Reliability
+### 🛡️ Reliability Engine
 
 - Local-first architecture
 - Offline mode
 - AsyncStorage persistence
-- Versioned data migrations
+- Versioned storage migrations
 - Error boundaries
 - Timeout and retry protection
+- Duplicate request prevention
 - Import and export backups
+- Recoverable failure states
 
 </td>
 </tr>
 </table>
 
-### Nexus AI architecture
+## Nexus architecture
 
 ```mermaid
 flowchart LR
-    U["User Goal"] --> O["Adaptive Onboarding"]
-    O --> API["Secure Server API"]
-    API --> OR["OpenRouter"]
-    OR --> DS["DeepSeek V4 Flash"]
-    DS --> Z["Zod Validation"]
-    Z --> P["Daily Plan"]
-    P --> D["Nexus Dashboard"]
-    D --> XP["XP • Levels • Streak"]
-    D --> F["Focus Sessions"]
-    D --> W["Android Widget"]
-    D --> S["Local Storage"]
-    OR -. failure .-> L["Local Fallback Plan"]
-    L --> D
-```
+    A["Long-term Goal"] --> B["Adaptive Onboarding"]
+    B --> C["Secure Server API"]
+    C --> D["OpenRouter"]
+    D --> E["DeepSeek"]
+    E --> F["Structured JSON"]
+    F --> G["Zod Validation"]
+    G --> H["Daily Mission"]
 
-### Core technology
+    H --> I["Nexus Dashboard"]
+    I --> J["Tasks"]
+    I --> K["XP & Levels"]
+    I --> L["Focus Sessions"]
+    I --> M["Progress Telemetry"]
+    I --> N["Android Widget"]
+    I --> O["Local Storage"]
+
+    D -. API unavailable .-> P["Offline Planning Engine"]
+    P --> H
+```
 
 <div align="center">
 
-![Expo](https://img.shields.io/badge/Expo-09090B?style=for-the-badge&logo=expo&logoColor=FFFFFF)
-![React Native](https://img.shields.io/badge/React%20Native-09090B?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-09090B?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-09090B?style=for-the-badge&logoColor=FFFFFF)
-![DeepSeek](https://img.shields.io/badge/DeepSeek%20V4-09090B?style=for-the-badge&logoColor=4D6BFE)
-![Zod](https://img.shields.io/badge/Zod-09090B?style=for-the-badge&logo=zod&logoColor=3E67B1)
-![Render](https://img.shields.io/badge/Render-09090B?style=for-the-badge&logo=render&logoColor=46E3B7)
-![GitHub](https://img.shields.io/badge/GitHub-09090B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+`EXPO ROUTER` • `REACT NATIVE` • `TYPESCRIPT` • `OPENROUTER` • `DEEPSEEK` • `ZOD` • `ASYNCSTORAGE` • `EAS BUILD` • `RENDER`
 
 </div>
 
 ---
 
-## 🧩 What I Build
+# 🧩 Product Capabilities
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 📱 Mobile Applications
+### 📱 Mobile
 
-I create mobile-first products with attention to usability, performance and visual identity.
-
-- Android applications
-- React Native interfaces
-- Expo Router navigation
-- Local-first experiences
-- Native-ready features
-- Notifications and widgets
+Android-first apps, responsive layouts, native-ready features, local persistence, notifications and widgets.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 🤖 AI-Powered Products
+### 🌐 Web
 
-I integrate AI as part of the product architecture, not as a decorative chatbot.
-
-- AI copilots
-- Intelligent planning systems
-- Prompt and context architecture
-- Structured model responses
-- OpenRouter integrations
-- Fallback and validation systems
+Landing pages, dashboards, portfolios, SaaS interfaces and conversion-focused experiences.
 
 </td>
-</tr>
+<td width="25%" align="center" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+### 🤖 AI
 
-### 🌐 Web Experiences
-
-I build responsive interfaces designed to communicate, convert and feel like real products.
-
-- Landing pages
-- SaaS dashboards
-- Business websites
-- Portfolios
-- Interactive interfaces
-- Mobile-first experiences
+AI copilots, structured outputs, prompt architecture, model integration and safe fallbacks.
 
 </td>
-<td width="50%" valign="top">
+<td width="25%" align="center" valign="top">
 
-### ⚙️ Automation Systems
+### ⚙️ Automation
 
-I connect tools and workflows to reduce repetitive work and accelerate delivery.
-
-- AI-assisted development flows
-- GitHub-based delivery
-- Deployment pipelines
-- API integrations
-- Automated maintenance
-- Agent-directed workflows
+Deployment flows, API connections, GitHub workflows and AI-assisted maintenance systems.
 
 </td>
 </tr>
@@ -267,268 +269,319 @@ I connect tools and workflows to reduce repetitive work and accelerate delivery.
 
 ---
 
-## 🛠️ Technologies I Build With
+# 🛠️ Technology Orbit
 
 <div align="center">
 
-### Core Languages
+## Active Product Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css&theme=dark&perline=6" />
-
-<br/><br/>
-
-### Frontend and Mobile
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,git,github&theme=dark&perline=7"/>
 
 <br/><br/>
 
-![React Native](https://img.shields.io/badge/React%20Native-15151D?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo Router](https://img.shields.io/badge/Expo%20Router-15151D?style=for-the-badge&logo=expo&logoColor=FFFFFF)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-15151D?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Backend and Data
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres,firebase&theme=dark&perline=5" />
-
-<br/><br/>
-
-![REST APIs](https://img.shields.io/badge/REST%20APIs-15151D?style=for-the-badge&logo=fastapi&logoColor=009688)
-![AsyncStorage](https://img.shields.io/badge/AsyncStorage-15151D?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Zod](https://img.shields.io/badge/Zod-15151D?style=for-the-badge&logo=zod&logoColor=3E67B1)
-
-### Artificial Intelligence
-
-![OpenRouter](https://img.shields.io/badge/OpenRouter-15151D?style=for-the-badge)
-![OpenAI APIs](https://img.shields.io/badge/OpenAI%20APIs-15151D?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-15151D?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-15151D?style=for-the-badge&logo=anthropic&logoColor=D97757)
-![Gemini](https://img.shields.io/badge/Gemini-15151D?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![Prompt Architecture](https://img.shields.io/badge/Prompt%20Architecture-15151D?style=for-the-badge&logo=probot&logoColor=A78BFA)
-
-### Automation and Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify&theme=dark&perline=5" />
+<img src="https://img.shields.io/badge/React%20Native-12121A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo%20Router-12121A?style=for-the-badge&logo=expo&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/OpenRouter-12121A?style=for-the-badge&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/DeepSeek-12121A?style=for-the-badge&logoColor=4D6BFE"/>
+<img src="https://img.shields.io/badge/Zod-12121A?style=for-the-badge&logo=zod&logoColor=3E67B1"/>
+<img src="https://img.shields.io/badge/AsyncStorage-12121A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <br/><br/>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-15151D?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Render](https://img.shields.io/badge/Render-15151D?style=for-the-badge&logo=render&logoColor=46E3B7)
-![Replit](https://img.shields.io/badge/Replit-15151D?style=for-the-badge&logo=replit&logoColor=F26207)
-![EAS Build](https://img.shields.io/badge/EAS%20Build-15151D?style=for-the-badge&logo=expo&logoColor=FFFFFF)
-![n8n](https://img.shields.io/badge/n8n-15151D?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+## Web and Interface
 
-### Design and Product
-
-<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,nextjs,vite,figma&theme=dark&perline=6"/>
 
 <br/><br/>
 
-![Canva](https://img.shields.io/badge/Canva-15151D?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![Product Design](https://img.shields.io/badge/Product%20Design-15151D?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![UX Thinking](https://img.shields.io/badge/UX%20Thinking-15151D?style=for-the-badge&logo=materialdesign&logoColor=A78BFA)
+<img src="https://img.shields.io/badge/Responsive%20Design-12121A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Product%20Design-12121A?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+<img src="https://img.shields.io/badge/Canva-12121A?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/Mobile--First%20UX-12121A?style=for-the-badge&logo=materialdesign&logoColor=C084FC"/>
+
+<br/><br/>
+
+## Data, Infrastructure and Deployment
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,docker,vercel,netlify&theme=dark&perline=6"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Render-12121A?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+<img src="https://img.shields.io/badge/Replit-12121A?style=for-the-badge&logo=replit&logoColor=F26207"/>
+<img src="https://img.shields.io/badge/EAS%20Build-12121A?style=for-the-badge&logo=expo&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-12121A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/n8n-12121A?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+
+<br/><br/>
+
+## Languages and Systems I Am Expanding
+
+<img src="https://skillicons.dev/icons?i=python,java&theme=dark&perline=2"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/AI%20Agent%20Workflows-12121A?style=for-the-badge&logo=probot&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/API%20Architecture-12121A?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-12121A?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
 
 </div>
 
-> These are technologies I actively build, integrate or experiment with through hands-on projects and AI-assisted development. My focus is not collecting logos. It is understanding how to combine tools into working products.
+> These are technologies I actively build with, integrate or explore through hands-on projects and AI-assisted development. My focus is not collecting logos. It is combining tools into systems that work.
 
 ---
 
-## ⚡ My Build System
+# ⚡ My Execution Loop
 
 ```mermaid
 flowchart LR
     A["Real Problem"] --> B["Product Vision"]
-    B --> C["Clear Requirements"]
-    C --> D["AI-Assisted Development"]
-    D --> E["Integration"]
-    E --> F["Testing"]
-    F --> G["Debugging"]
-    G --> H["Deployment"]
-    H --> I["Real Feedback"]
-    I --> B
+    B --> C["User Experience"]
+    C --> D["Technical Requirements"]
+    D --> E["AI-Assisted Development"]
+    E --> F["Integration"]
+    F --> G["Testing"]
+    G --> H["Debugging"]
+    H --> I["Deployment"]
+    I --> J["Real Feedback"]
+    J --> B
 ```
 
 ```text
 01. Find a problem worth solving
-02. Define exactly what the product should accomplish
-03. Design the user journey and visual identity
-04. Convert the vision into precise technical requirements
-05. Direct AI agents and development tools
-06. Connect interfaces, APIs, data and business logic
-07. Test complete real-world flows
-08. Debug failures instead of hiding them
+02. Define what the product must accomplish
+03. Design the experience and identity
+04. Convert the idea into precise requirements
+05. Direct AI tools to accelerate execution
+06. Connect interfaces, APIs, storage and logic
+07. Test complete user flows
+08. Debug the cause, not only the symptom
 09. Deploy, observe, improve and repeat
 ```
 
-I care about the entire product, including:
+I care about the entire system:
 
-- User experience
 - Product usefulness
-- Technical architecture
+- User experience
+- Visual identity
+- Architecture
 - Security
 - API costs
 - Error handling
 - Offline behavior
-- Mobile responsiveness
+- Performance
 - Deployment
 - Maintenance
 - Monetization
 
 ---
 
-## 📡 Current Transmission
+# 📡 Current Transmission
 
 ```diff
-+ Shipping Nexus AI as a polished Android experience
-+ Testing secure AI planning with OpenRouter
-+ Building Android widgets for daily missions
-+ Creating an automated update and maintenance system
-+ Improving my portfolio with real products
-+ Looking for freelance opportunities and collaborations
-+ Turning execution into revenue
++ Shipping Nexus AI as a polished Android product
++ Building an automated development and update pipeline
++ Creating stronger mobile and web portfolio projects
++ Exploring AI-native product architecture
++ Looking for real freelance opportunities
++ Turning technical execution into sustainable revenue
 ```
 
 <div align="center">
-
-### Current objective
 
 ```text
-BUILD USEFUL PRODUCTS
-        ↓
-SOLVE REAL PROBLEMS
-        ↓
-WORK WITH REAL CLIENTS
-        ↓
-REINVEST IN BETTER TOOLS
-        ↓
-BUILD EVEN BIGGER PRODUCTS
+             IDEA
+               │
+               ▼
+         WORKING PRODUCT
+               │
+               ▼
+            PORTFOLIO
+               │
+               ▼
+         REAL-WORLD VALUE
+               │
+               ▼
+            CLIENTS
+               │
+               ▼
+            REVENUE
+               │
+               ▼
+         BETTER EQUIPMENT
+               │
+               ▼
+        BIGGER PRODUCTS
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Telemetry
+# 📊 GitHub Telemetry
 
 <div align="center">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Guuh-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07070A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Guuh-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=07070A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E7EB&ring_color=8B5CF6"
-  />
-</picture>
+<img
+  width="96%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guuh-dev&theme=tokyonight"
+  alt="GitHub profile details"
+/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guuh-dev&layout=compact&langs_count=8&hide_border=true&bg_color=07070A&title_color=A78BFA&text_color=E5E7EB"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    width="42%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guuh-dev&layout=compact&langs_count=8&hide_border=true&bg_color=07070A&title_color=A78BFA&text_color=E5E7EB"
-  />
-</picture>
+<br/>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Guuh-dev&theme=tokyonight"
+  alt="GitHub statistics"
+/>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Guuh-dev&theme=tokyonight&utcOffset=-3"
+  alt="Productive time"
+/>
+
+<br/>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Guuh-dev&theme=tokyonight"
+  alt="Repositories per language"
+/>
+
+<img
+  width="47%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Guuh-dev&theme=tokyonight"
+  alt="Most committed languages"
+/>
 
 <br/><br/>
 
 <img
-  width="92%"
-  src="https://streak-stats.demolab.com?user=Guuh-dev&theme=midnight-purple&hide_border=true&background=07070A&ring=8B5CF6&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=A1A1AA"
+  width="94%"
+  src="https://streak-stats.demolab.com?user=Guuh-dev&hide_border=true&background=07070A&ring=A855F7&fire=F59E0B&currStreakLabel=C084FC&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=71717A"
+  alt="GitHub streak"
 />
 
 <br/><br/>
 
 <img
   width="96%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Guuh-dev&bg_color=07070A&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true&custom_title=Development%20Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Guuh-dev&bg_color=07070A&color=C084FC&line=A855F7&point=FFFFFF&area=true&area_color=4C1D95&hide_border=true&custom_title=Development%20Activity"
+  alt="Development activity graph"
 />
 
 </div>
 
 ---
 
-## 🏆 Achievement Terminal
+# 🐍 Contribution Protocol
 
 <div align="center">
 
 <img
-  width="96%"
-  src="https://github-profile-trophy.vercel.app/?username=Guuh-dev&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Protocol
-
-<div align="center">
-
-<img
+  width="100%"
   src="https://raw.githubusercontent.com/Guuh-dev/Guuh-dev/output/github-contribution-grid-snake-dark.svg"
   alt="Animated contribution snake"
 />
 
-</div>
-
-<div align="center">
+<br/>
 
 ```text
-Every square is proof that the system kept moving.
+Every square is evidence that the system kept moving.
 ```
 
 </div>
 
 ---
 
-## 🤝 Let’s Build Something Real
+# 🤝 Let’s Build Something Real
 
-I am open to projects involving:
+<div align="center">
+
+I am open to freelance work, product collaborations and ambitious ideas involving:
+
+<br/>
 
 <table>
 <tr>
-<td align="center">📱<br/><b>Mobile Apps</b></td>
-<td align="center">🌐<br/><b>Web Products</b></td>
-<td align="center">🤖<br/><b>AI Systems</b></td>
-<td align="center">⚙️<br/><b>Automation</b></td>
-<td align="center">🚀<br/><b>Product MVPs</b></td>
+<td align="center" width="20%">
+
+### 📱  
+**Mobile Apps**
+
+</td>
+<td align="center" width="20%">
+
+### 🌐  
+**Web Products**
+
+</td>
+<td align="center" width="20%">
+
+### 🤖  
+**AI Systems**
+
+</td>
+<td align="center" width="20%">
+
+### ⚙️  
+**Automation**
+
+</td>
+<td align="center" width="20%">
+
+### 🚀  
+**MVPs**
+
+</td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
 
 <a href="mailto:gustavobebe720@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20ME-8B5CF6?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/EMAIL%20ME-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Guuh-dev">
-  <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<a href="https://www.linkedin.com/in/gustavo-araujo-542019316/">
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.upwork.com/freelancers/~0150fe8d8539ae61d9">
+  <img src="https://img.shields.io/badge/HIRE%20ME%20ON%20UPWORK-14A800?style=for-the-badge&logo=upwork&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Guuh-dev/Nexus-AI-v1">
-  <img src="https://img.shields.io/badge/EXPLORE%20NEXUS%20AI-6D28D9?style=for-the-badge&logo=android&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/EXPLORE%20NEXUS%20AI-6D28D9?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### `"Ideas are cheap. Execution turns them into systems."`
+## `"Ideas are cheap. Execution turns them into systems."`
 
-`DESIGN THE VISION` • `DIRECT THE INTELLIGENCE` • `SHIP THE PRODUCT`
+### `DESIGN THE VISION` • `DIRECT THE INTELLIGENCE` • `SHIP THE PRODUCT`
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=NEXUS+ONLINE.;BUILD+IN+PROGRESS.;THE+CODE+NEVER+STOPS." />
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=760&lines=NEXUS+ONLINE.;BUILD+IN+PROGRESS.;SYSTEM+STILL+EVOLVING.;THE+CODE+NEVER+STOPS."
+    alt="System status animation"
+  />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILT%20FROM-A%20PHONE--FIRST%20SETUP-7C3AED?style=for-the-badge&labelColor=09090B"/>
+
+<br/><br/>
+
+**Gustavo Araújo • Brazil • 2026**
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:9D4EDD,45:5B21B6,100:050505"/>
