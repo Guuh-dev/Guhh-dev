@@ -1,0 +1,207 @@
+<svg
+  width="1200"
+  height="380"
+  viewBox="0 0 1200 380"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="380">
+      <stop stop-color="#050507"/>
+      <stop offset="0.42" stop-color="#0C0714"/>
+      <stop offset="0.72" stop-color="#24103A"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+
+    <linearGradient id="purple" x1="120" y1="80" x2="1040" y2="300">
+      <stop stop-color="#C084FC"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6D28D9"/>
+    </linearGradient>
+
+    <linearGradient id="softPurple" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E9D5FF"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path
+        d="M 38 0 L 0 0 0 38"
+        fill="none"
+        stroke="#A855F7"
+        stroke-opacity="0.075"
+        stroke-width="1"
+      />
+    </pattern>
+
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+
+    <filter id="purpleGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="34" fill="url(#background)"/>
+  <rect width="1200" height="380" rx="34" fill="url(#grid)"/>
+
+  <ellipse cx="1010" cy="90" rx="300" ry="240" fill="url(#glow)"/>
+  <ellipse cx="180" cy="360" rx="340" ry="210" fill="url(#glow)" opacity="0.45"/>
+
+  <path
+    d="M0 317C180 253 302 352 486 305C710 248 829 146 1200 200V380H0V317Z"
+    fill="#7C3AED"
+    fill-opacity="0.075"
+  />
+
+  <path
+    d="M0 343C179 292 338 364 529 326C760 280 950 207 1200 244V380H0V343Z"
+    fill="#A855F7"
+    fill-opacity="0.055"
+  />
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="68" width="168" height="168" rx="42" fill="#0B0B11"/>
+    <rect x="72.75" y="68.75" width="166.5" height="166.5" rx="41.25" stroke="url(#purple)" stroke-width="1.5"/>
+
+    <rect x="108" y="103" width="52" height="24" rx="4" fill="#A855F7"/>
+    <rect x="92" y="127" width="68" height="28" rx="4" fill="#8B5CF6"/>
+    <rect x="92" y="155" width="96" height="28" rx="4" fill="#7C3AED"/>
+    <rect x="136" y="183" width="52" height="18" rx="4" fill="#6D28D9"/>
+
+    <rect x="136" y="110" width="13" height="9" rx="2" fill="#FFFFFF"/>
+    <rect x="131" y="166" width="15" height="10" rx="2" fill="#E9D5FF"/>
+  </g>
+
+  <text
+    x="286"
+    y="104"
+    fill="#C084FC"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="16"
+    font-weight="700"
+    letter-spacing="5"
+  >
+    AI-NATIVE PRODUCT BUILDER
+  </text>
+
+  <text
+    x="282"
+    y="170"
+    fill="#FFFFFF"
+    font-family="Inter, ui-sans-serif, system-ui, sans-serif"
+    font-size="55"
+    font-weight="800"
+    letter-spacing="-2"
+  >
+    GUSTAVO ARAÚJO
+  </text>
+
+  <text
+    x="286"
+    y="212"
+    fill="#C4B5FD"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="18"
+    font-weight="600"
+    letter-spacing="1.5"
+  >
+    MOBILE • WEB • AI SYSTEMS • AUTOMATION
+  </text>
+
+  <line x1="286" y1="242" x2="871" y2="242" stroke="url(#purple)" stroke-width="2"/>
+
+  <text
+    x="286"
+    y="279"
+    fill="#A1A1AA"
+    font-family="Inter, ui-sans-serif, system-ui, sans-serif"
+    font-size="17"
+    font-weight="500"
+  >
+    Designing the vision. Directing the intelligence. Shipping the product.
+  </text>
+
+  <g>
+    <rect x="286" y="304" width="162" height="36" rx="18" fill="#17131F" stroke="#7C3AED" stroke-opacity="0.75"/>
+    <circle cx="307" cy="322" r="5" fill="#4ADE80" filter="url(#purpleGlow)"/>
+    <text
+      x="321"
+      y="328"
+      fill="#E9D5FF"
+      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+      font-size="12"
+      font-weight="700"
+      letter-spacing="1.2"
+    >
+      SYSTEM ONLINE
+    </text>
+
+    <rect x="462" y="304" width="182" height="36" rx="18" fill="#17131F" stroke="#7C3AED" stroke-opacity="0.75"/>
+    <text
+      x="484"
+      y="328"
+      fill="#E9D5FF"
+      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+      font-size="12"
+      font-weight="700"
+      letter-spacing="1.1"
+    >
+      PHONE-FIRST BUILD
+    </text>
+
+    <rect x="658" y="304" width="168" height="36" rx="18" fill="#17131F" stroke="#7C3AED" stroke-opacity="0.75"/>
+    <text
+      x="681"
+      y="328"
+      fill="#E9D5FF"
+      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+      font-size="12"
+      font-weight="700"
+      letter-spacing="1.1"
+    >
+      OPEN TO WORK
+    </text>
+  </g>
+
+  <g opacity="0.85">
+    <circle cx="1068" cy="92" r="44" stroke="#C084FC" stroke-width="2" stroke-dasharray="7 9"/>
+    <circle cx="1068" cy="92" r="25" stroke="#8B5CF6" stroke-width="2"/>
+    <circle cx="1068" cy="92" r="7" fill="#C084FC" filter="url(#purpleGlow)"/>
+  </g>
+
+  <text
+    x="991"
+    y="173"
+    fill="#A78BFA"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="13"
+    font-weight="700"
+    letter-spacing="2"
+  >
+    NEXUS CORE
+  </text>
+
+  <text
+    x="1011"
+    y="197"
+    fill="#71717A"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="11"
+    letter-spacing="1.5"
+  >
+    ACTIVE
+  </text>
+
+  <rect x="1" y="1" width="1198" height="378" rx="33" stroke="#A855F7" stroke-opacity="0.23" stroke-width="2"/>
+</svg>
