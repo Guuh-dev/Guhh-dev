@@ -485,25 +485,11 @@ I care about the complete product:
 
 ---
 
-# 🐍 Contribution Protocol
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Guuh-dev/Guuh-dev/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Guuh-dev/Guuh-dev/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    alt="Animated contribution snake"
-    src="https://raw.githubusercontent.com/Guuh-dev/Guuh-dev/output/github-contribution-grid-snake-dark.svg"
-  />
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Guuh-dev/Guuh-dev/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
 
 <br/>
 
